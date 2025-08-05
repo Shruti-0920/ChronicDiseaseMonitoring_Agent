@@ -12,6 +12,8 @@ The AI agent is designed to assist patients and healthcare providers in managing
 ##  File Included
 
 - `AgenticAI.pptx`: Presentation explaining the problem statement, proposed solution, system design, tools used, deployment, and future scope.
+- 'Reference_ChronicDiseaseMonitoring':Supporting information about chronic diseases to help the AI agent provide better responses.
+- UI_ChronicDiseaseMonitoring':Basic user interface layout for the AI agent interaction and health data input.
 
 ## License
 This project is shared without a license. All rights reserved.
